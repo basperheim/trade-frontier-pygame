@@ -1,0 +1,177 @@
+{
+  "day": 5,
+  "money": 9424,
+  "cargo": {
+    "Spices": 4,
+    "Silk": 0,
+    "Gems": 0,
+    "Tea": 4,
+    "Iron": 0
+  },
+  "cargo_capacity": 32,
+  "city": "Emberfall",
+  "game_over": false,
+  "message": "Sold 1 crate of Silk.",
+  "market_trend": {
+    "Spices": 0.9480833517601666,
+    "Silk": 0.9471596203435094,
+    "Gems": 1.076293454077423,
+    "Tea": 0.8540833804231993,
+    "Iron": 1.1359951412773324
+  },
+  "trend_phase": {
+    "Spices": 4.924292807458466,
+    "Silk": 3.0572055321197653,
+    "Gems": 1.1449083974647978,
+    "Tea": 4.417019587151845,
+    "Iron": 1.1982883342954098
+  },
+  "trend_velocity": {
+    "Spices": 0.04868649886631373,
+    "Silk": 0.06458384367243665,
+    "Gems": 0.04940495046147081,
+    "Tea": 0.06291236503084352,
+    "Iron": 0.04986327601855665
+  },
+  "news_seed": 628937153,
+  "news_event": {
+    "good": "Silk",
+    "modifier": 1.3143664988914217,
+    "summary": "Silk boom after Emberfall celebrations",
+    "headline": "News: Emberfall festival sends Silk demand surging (+31%).",
+    "conclusion": "boom calms",
+    "expires_on": 6
+  },
+  "news_history": [
+    "Day 2: News: Emberfall festival sends Silk demand surging (+31%).",
+    "Day 3: News: Silk boom after Emberfall celebrations (4d)",
+    "Day 4: News: Silk boom after Emberfall celebrations (3d)",
+    "Day 5: News: Silk boom after Emberfall celebrations (2d)"
+  ],
+  "price_history": {
+    "Harborlight": {
+      "Spices": [
+        [
+          1,
+          168
+        ]
+      ],
+      "Silk": [
+        [
+          1,
+          207
+        ]
+      ],
+      "Gems": [
+        [
+          1,
+          408
+        ]
+      ],
+      "Tea": [
+        [
+          1,
+          72
+        ]
+      ],
+      "Iron": [
+        [
+          1,
+          141
+        ]
+      ]
+    },
+    "Emberfall": {
+      "Spices": [
+        [
+          3,
+          162
+        ],
+        [
+          4,
+          138
+        ],
+        [
+          5,
+          165
+        ]
+      ],
+      "Silk": [
+        [
+          3,
+          336
+        ],
+        [
+          4,
+          294
+        ],
+        [
+          5,
+          264
+        ]
+      ],
+      "Gems": [
+        [
+          3,
+          582
+        ],
+        [
+          4,
+          483
+        ],
+        [
+          5,
+          582
+        ]
+      ],
+      "Tea": [
+        [
+          3,
+          75
+        ],
+        [
+          4,
+          75
+        ],
+        [
+          5,
+          75
+        ]
+      ],
+      "Iron": [
+        [
+          3,
+          168
+        ],
+        [
+          4,
+          135
+        ],
+        [
+          5,
+          168
+        ]
+      ]
+    }
+  },
+  "net_worth_history": [
+    [
+      1,
+      10000
+    ],
+    [
+      3,
+      10267
+    ],
+    [
+      4,
+      10219
+    ],
+    [
+      5,
+      10384
+    ]
+  ],
+  "selected_chart_option": "Silk",
+  "score_recorded": false
+}

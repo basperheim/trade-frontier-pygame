@@ -1,155 +1,416 @@
 {
-  "day": 5,
-  "money": 9424,
+  "day": 33,
+  "money": 5976,
   "cargo": {
     "Spices": 4,
-    "Silk": 0,
-    "Gems": 0,
-    "Tea": 4,
+    "Silk": 30,
+    "Gems": 5,
+    "Tea": 8,
     "Iron": 0
   },
-  "cargo_capacity": 32,
-  "city": "Emberfall",
+  "cargo_capacity": 64,
+  "city": "Irondeep",
   "game_over": false,
-  "message": "Sold 1 crate of Silk.",
+  "message": "Manifest logged. Charter saved.",
   "market_trend": {
-    "Spices": 0.9480833517601666,
-    "Silk": 0.9471596203435094,
-    "Gems": 1.076293454077423,
-    "Tea": 0.8540833804231993,
-    "Iron": 1.1359951412773324
+    "Spices": 0.977015315199682,
+    "Silk": 0.8349550527648261,
+    "Gems": 1.067122275669335,
+    "Tea": 0.8720187719788908,
+    "Iron": 0.946173610627166
   },
   "trend_phase": {
-    "Spices": 4.924292807458466,
-    "Silk": 3.0572055321197653,
-    "Gems": 1.1449083974647978,
-    "Tea": 4.417019587151845,
-    "Iron": 1.1982883342954098
+    "Spices": 3.8276927517361456,
+    "Silk": 4.807561319662681,
+    "Gems": 2.6387673538518794,
+    "Tea": 3.9347762278788267,
+    "Iron": 4.45798727825314
   },
   "trend_velocity": {
-    "Spices": 0.04868649886631373,
-    "Silk": 0.06458384367243665,
-    "Gems": 0.04940495046147081,
-    "Tea": 0.06291236503084352,
-    "Iron": 0.04986327601855665
+    "Spices": 0.05203887059519299,
+    "Silk": 0.05327793262528578,
+    "Gems": 0.0491170855181432,
+    "Tea": 0.05309464003518939,
+    "Iron": 0.052524944886866196
   },
-  "news_seed": 628937153,
-  "news_event": {
-    "good": "Silk",
-    "modifier": 1.3143664988914217,
-    "summary": "Silk boom after Emberfall celebrations",
-    "headline": "News: Emberfall festival sends Silk demand surging (+31%).",
-    "conclusion": "boom calms",
-    "expires_on": 6
-  },
+  "news_seed": 450161520,
+  "news_event": null,
   "news_history": [
-    "Day 2: News: Emberfall festival sends Silk demand surging (+31%).",
-    "Day 3: News: Silk boom after Emberfall celebrations (4d)",
-    "Day 4: News: Silk boom after Emberfall celebrations (3d)",
-    "Day 5: News: Silk boom after Emberfall celebrations (2d)"
+    "Day 10: News: Tea glut from Emberfall overstock (1d)",
+    "Day 11: News fades: Tea slump eases",
+    "Day 15: News: Verdant Vale bottlenecks crash Iron prices (-41%).",
+    "Day 15: News: Iron glut from Verdant Vale overstock (3d)",
+    "Day 16: News: Iron glut from Verdant Vale overstock (2d)",
+    "Day 17: News: Iron glut from Verdant Vale overstock (1d)",
+    "Day 18: News fades: Iron slump eases",
+    "Day 20: News: Emberfall festival sends Silk demand surging (+31%).",
+    "Day 20: News: Silk boom after Emberfall celebrations (3d)",
+    "Day 21: News: Silk boom after Emberfall celebrations (2d)",
+    "Day 22: News: Silk boom after Emberfall celebrations (1d)",
+    "Day 23: News fades: Silk boom calms"
   ],
   "price_history": {
     "Harborlight": {
       "Spices": [
         [
-          1,
-          168
+          16,
+          180
+        ],
+        [
+          17,
+          228
+        ],
+        [
+          18,
+          237
+        ],
+        [
+          19,
+          195
+        ],
+        [
+          20,
+          174
+        ],
+        [
+          21,
+          189
+        ],
+        [
+          22,
+          189
+        ],
+        [
+          23,
+          189
+        ],
+        [
+          24,
+          210
+        ],
+        [
+          25,
+          240
+        ],
+        [
+          26,
+          207
+        ],
+        [
+          27,
+          204
+        ],
+        [
+          28,
+          198
+        ],
+        [
+          29,
+          186
         ]
       ],
       "Silk": [
         [
-          1,
+          16,
           207
+        ],
+        [
+          17,
+          216
+        ],
+        [
+          18,
+          183
+        ],
+        [
+          19,
+          180
+        ],
+        [
+          20,
+          288
+        ],
+        [
+          21,
+          246
+        ],
+        [
+          22,
+          252
+        ],
+        [
+          23,
+          222
+        ],
+        [
+          24,
+          210
+        ],
+        [
+          25,
+          183
+        ],
+        [
+          26,
+          189
+        ],
+        [
+          27,
+          195
+        ],
+        [
+          28,
+          177
+        ],
+        [
+          29,
+          219
         ]
       ],
       "Gems": [
         [
-          1,
-          408
+          16,
+          414
+        ],
+        [
+          17,
+          417
+        ],
+        [
+          18,
+          477
+        ],
+        [
+          19,
+          555
+        ],
+        [
+          20,
+          477
+        ],
+        [
+          21,
+          468
+        ],
+        [
+          22,
+          453
+        ],
+        [
+          23,
+          489
+        ],
+        [
+          24,
+          456
+        ],
+        [
+          25,
+          537
+        ],
+        [
+          26,
+          504
+        ],
+        [
+          27,
+          468
+        ],
+        [
+          28,
+          420
+        ],
+        [
+          29,
+          399
         ]
       ],
       "Tea": [
         [
-          1,
+          16,
+          84
+        ],
+        [
+          17,
+          84
+        ],
+        [
+          18,
+          69
+        ],
+        [
+          19,
           72
+        ],
+        [
+          20,
+          72
+        ],
+        [
+          21,
+          90
+        ],
+        [
+          22,
+          78
+        ],
+        [
+          23,
+          81
+        ],
+        [
+          24,
+          81
+        ],
+        [
+          25,
+          72
+        ],
+        [
+          26,
+          63
+        ],
+        [
+          27,
+          81
+        ],
+        [
+          28,
+          78
+        ],
+        [
+          29,
+          75
         ]
       ],
       "Iron": [
         [
-          1,
-          141
+          16,
+          84
+        ],
+        [
+          17,
+          63
+        ],
+        [
+          18,
+          111
+        ],
+        [
+          19,
+          144
+        ],
+        [
+          20,
+          114
+        ],
+        [
+          21,
+          132
+        ],
+        [
+          22,
+          120
+        ],
+        [
+          23,
+          123
+        ],
+        [
+          24,
+          96
+        ],
+        [
+          25,
+          102
+        ],
+        [
+          26,
+          120
+        ],
+        [
+          27,
+          102
+        ],
+        [
+          28,
+          126
+        ],
+        [
+          29,
+          108
         ]
       ]
     },
-    "Emberfall": {
+    "Irondeep": {
       "Spices": [
         [
-          3,
-          162
+          31,
+          141
         ],
         [
-          4,
-          138
+          32,
+          123
         ],
         [
-          5,
-          165
+          33,
+          132
         ]
       ],
       "Silk": [
         [
-          3,
-          336
+          31,
+          165
         ],
         [
-          4,
-          294
+          32,
+          222
         ],
         [
-          5,
-          264
+          33,
+          210
         ]
       ],
       "Gems": [
         [
-          3,
-          582
+          31,
+          426
         ],
         [
-          4,
-          483
+          32,
+          465
         ],
         [
-          5,
-          582
+          33,
+          543
         ]
       ],
       "Tea": [
         [
-          3,
+          31,
+          81
+        ],
+        [
+          32,
           75
         ],
         [
-          4,
-          75
-        ],
-        [
-          5,
-          75
+          33,
+          69
         ]
       ],
       "Iron": [
         [
-          3,
-          168
+          31,
+          198
         ],
         [
-          4,
-          135
+          32,
+          147
         ],
         [
-          5,
-          168
+          33,
+          150
         ]
       ]
     }
@@ -160,18 +421,130 @@
       10000
     ],
     [
+      2,
+      10465
+    ],
+    [
       3,
-      10267
+      10381
     ],
     [
       4,
-      10219
+      10402
     ],
     [
       5,
-      10384
+      10609
+    ],
+    [
+      6,
+      9429
+    ],
+    [
+      7,
+      9894
+    ],
+    [
+      8,
+      10116
+    ],
+    [
+      9,
+      10248
+    ],
+    [
+      10,
+      10686
+    ],
+    [
+      11,
+      10728
+    ],
+    [
+      12,
+      11271
+    ],
+    [
+      13,
+      11433
+    ],
+    [
+      14,
+      11271
+    ],
+    [
+      15,
+      10672
+    ],
+    [
+      16,
+      10966
+    ],
+    [
+      17,
+      10530
+    ],
+    [
+      18,
+      11742
+    ],
+    [
+      19,
+      12756
+    ],
+    [
+      20,
+      14790
+    ],
+    [
+      21,
+      14466
+    ],
+    [
+      22,
+      14496
+    ],
+    [
+      23,
+      14226
+    ],
+    [
+      24,
+      14142
+    ],
+    [
+      25,
+      14400
+    ],
+    [
+      26,
+      14529
+    ],
+    [
+      27,
+      15057
+    ],
+    [
+      28,
+      14097
+    ],
+    [
+      29,
+      15894
+    ],
+    [
+      31,
+      13812
+    ],
+    [
+      32,
+      16053
+    ],
+    [
+      33,
+      16071
     ]
   ],
-  "selected_chart_option": "Silk",
+  "selected_chart_option": "Iron",
   "score_recorded": false
 }
